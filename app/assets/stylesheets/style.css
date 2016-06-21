@@ -1,0 +1,23 @@
+.container{width:100%;margin:0 auto;max-width:926px;}
+header.slip_header{padding:12px;}
+.logo{float:left;    margin-left: 50%;}
+.content_1 {
+    float: left;
+    margin-top: 2px;
+    width: 100%;
+}
+.addr_top{float:right;    margin-top: 22px;text-align: center;
+    width: 100%;}
+.outer_section {
+
+  display: block;
+  margin: 0 auto;
+  max-width: 700px;
+  width: 100%;
+}
+
+.facebook_login{
+  height: 129px;
+  width: 248px;
+ }
+
